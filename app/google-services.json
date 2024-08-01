@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "927837819785",
+    "project_id": "data-share-25bfe",
+    "storage_bucket": "data-share-25bfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927837819785:android:c29c23e5042782bd184758",
+        "android_client_info": {
+          "package_name": "com.example.datashare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJeaVHXp-3OCuHTy46TzUqoVxgtjIPfVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927837819785:android:78468fd8507f4500184758",
+        "android_client_info": {
+          "package_name": "com.letech.shared"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJeaVHXp-3OCuHTy46TzUqoVxgtjIPfVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
